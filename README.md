@@ -5,4 +5,4 @@ Part of the project: **Metaphors and Identities in the Australian Vernacular** f
 
 We collected data via an online survey, the notebook here allows complex queries across that data.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smusgrav/auslanguage/tree/main/HEAD?labpath=SlangSurveyExplorer.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smusgrav/auslanguage/main?labpath=SlangSurveyExplorer.ipynb)
