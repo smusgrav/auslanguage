@@ -1,2 +1,6 @@
 # auslanguage
-Survey data and tools for Australian slang.
+## Survey data and tools for Australian slang.
+
+Part of the project: **Metaphors and Identities in the Australian Vernacular** funded by the Australian Research Council (ARC SR200200350)
+
+We collected data via an online survey, the notebook here allows complex queries across that data.
